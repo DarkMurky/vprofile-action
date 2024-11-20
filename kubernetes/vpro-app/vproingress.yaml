@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: vprofile.thehkh.com
+  - host: kuber.cursetheweb.online
     http:
       paths:
       - path: /
